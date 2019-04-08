@@ -1,5 +1,5 @@
 # NewsIT
-Un bot per discord scritto in Python che riprende le ultime 5 notizie dell'ultima ora dal sito https://www.ansa.it/.
+Un bot per discord scritto in Python che riprende le ultime 5 notizie dell'ultima ora dal sito https://www.ansa.it/.                    
 [**INVITA IL BOT NEL TUO SERVER!**](https://discordapp.com/api/oauth2/authorize?client_id=564791688137015317&permissions=0&scope=bot)
 
 # Come funziona
