@@ -34,7 +34,7 @@ async def ansa():
         if "/sito/notizie/topnews/2019/" in newss[0]:
             if "img" not in newss[1]:
                 newslink = "http://www.ansa.it" + newss[0]
-                short = "https://cutt.ly/api/api.php?key=c3b22a920fe5a7b5261dd514ba9b0a0f&short="+newslink #per rend$
+                short = "https://cutt.ly/api/api.php?key=c3b22a920fe5a7b5261dd514ba9b0a0f&short="+newslink #per rendere i link meno ingombranti, NO ADS NO WAIT TO FORWARD
                 reeq = requests.get(short).text
                 shortres = json.loads(reeq)
                 shortlink = shortres['url']
