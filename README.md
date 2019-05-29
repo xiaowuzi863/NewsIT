@@ -14,8 +14,3 @@ Potete aggiungere pezzi di codice al bot per aiutarmi nello sviluppo, ovviamente
 
 # OPEN SOURCE FOR A FREE WORLD
 IL BOT NON è UN PROGETTO UFFICIALE DI ANSA O DI NESSUN ALTRA TESTATA GIRONALISTICA. Potete modificare il bot a vostro piacimento, farci tutto quello che volete non è sotto nessuna licenza.
-
-
-# CONTATTI 
-In caso di problemi potete contattarmi qui:
-firasroudi@gmail.com
